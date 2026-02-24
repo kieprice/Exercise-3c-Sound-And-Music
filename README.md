@@ -2,7 +2,7 @@
 
 Exercise for MSCH-C220
 
-The second exercise adding "juicy" features to a simple brick-breaker game.
+The third exercise adding "juicy" features to a simple brick-breaker game.
 
 ## To play
 
